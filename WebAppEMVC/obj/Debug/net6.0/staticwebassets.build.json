@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "hsVTXPmBlVKWW5aHyJmz1v23Wv19lOuviLE7E7jp9co=",
+  "Source": "WebAppEMVC",
+  "BasePath": "_content/WebAppEMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAppEMVC\\wwwroot",
+      "Source": "WebAppEMVC",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\WebApp\\WebAppEMVC\\wwwroot\\",
+      "BasePath": "_content/WebAppEMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\WebApp\\WebAppEMVC\\wwwroot\\index.html",
+      "SourceId": "WebAppEMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\WebApp\\WebAppEMVC\\wwwroot\\",
+      "BasePath": "_content/WebAppEMVC",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
